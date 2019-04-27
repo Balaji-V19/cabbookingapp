@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "280845394211",
+    "firebase_url": "https://rews-fd890.firebaseio.com",
+    "project_id": "rews-fd890",
+    "storage_bucket": "rews-fd890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280845394211:android:b8bd87ac4d7f525b",
+        "android_client_info": {
+          "package_name": "com.example.hp.cabbookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280845394211-j2jn4ak0f7p050gbmeq5qbpe52jdsstm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.cabbookingapp",
+            "certificate_hash": "a81e5d3acf0ade01355a1e1a0522fdfe52742437"
+          }
+        },
+        {
+          "client_id": "280845394211-34eo7ug4bra15ko73kcg3vsbamoo0dvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjF2SX_DN1JKB-yV4hFdF0asPIbNzxbOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280845394211-34eo7ug4bra15ko73kcg3vsbamoo0dvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
